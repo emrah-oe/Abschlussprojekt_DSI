@@ -65,7 +65,7 @@ Eine effektive Kundensegmentierung hilft:
 ---
 
 ## Inhalte des Repositories
-1. **/data:** Der synthetische Datensatz (CSV-Format).
+1. **/elektronik_data:** Der synthetische Datensatz (CSV-Format).
 2. **/notebooks:** Python-Notebooks für die RFM-Analyse, Clustering und Visualisierungen.
 3. **/results:** PowerPoint-Präsentation mit den Ergebnissen.
 
